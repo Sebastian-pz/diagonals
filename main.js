@@ -44,7 +44,6 @@ while (current > 0) {
 function printSpiral(array) {
   for (let i = 0; i < n; i++) {
     console.log(array[i]);
-    console.log('\n');
   }
 }
 
